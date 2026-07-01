@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+## Array
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
