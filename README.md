@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1446-consecutive-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1446-consecutive-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 ## Simulation
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
