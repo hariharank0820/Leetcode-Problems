@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3925-concatenate-array-with-reverse](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3925-concatenate-array-with-reverse](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
