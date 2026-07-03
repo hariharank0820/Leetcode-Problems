@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0238-product-of-array-except-self](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
+| [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0724-find-pivot-index) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1732-find-the-highest-altitude](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -58,5 +59,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
