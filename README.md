@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1732-find-the-highest-altitude](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3668-restore-finishing-order](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3925-concatenate-array-with-reverse) |
 ## Prefix Sum
 |  |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
