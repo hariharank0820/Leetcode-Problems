@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
+| [2843-count-symmetric-integers](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
 ## Number Theory
 |  |
 | ------- |
