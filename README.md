@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
