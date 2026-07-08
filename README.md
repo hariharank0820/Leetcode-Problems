@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0724-find-pivot-index) |
+| [0904-fruit-into-baskets](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1732-find-the-highest-altitude](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1732-find-the-highest-altitude) |
@@ -85,12 +86,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
+| [0904-fruit-into-baskets](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
 ## Sorting
