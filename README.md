@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0263-ugly-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
 | [2843-count-symmetric-integers](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2843-count-symmetric-integers) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
 |  |
@@ -119,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0779-k-th-symbol-in-grammar](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
