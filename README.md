@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
@@ -121,5 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0779-k-th-symbol-in-grammar](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
