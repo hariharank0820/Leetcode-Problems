@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0904-fruit-into-baskets](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Counting
