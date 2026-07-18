@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 ## Sliding Window
 |  |
 | ------- |
