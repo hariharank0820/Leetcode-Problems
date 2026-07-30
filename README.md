@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0162-find-peak-element](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0162-find-peak-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Recursion
 |  |
