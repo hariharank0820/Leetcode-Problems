@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1446-consecutive-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3838-weighted-word-mapping](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Simulation
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3668-restore-finishing-order](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3668-restore-finishing-order) |
