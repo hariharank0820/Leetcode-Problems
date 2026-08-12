@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0434-number-of-segments-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [1446-consecutive-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1446-consecutive-characters) |
