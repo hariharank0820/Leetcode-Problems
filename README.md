@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0779-k-th-symbol-in-grammar](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Array
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0434-number-of-segments-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
 | [0904-fruit-into-baskets](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Counting
