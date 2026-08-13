@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0434-number-of-segments-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 ## Sliding Window
 |  |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
 |  |
