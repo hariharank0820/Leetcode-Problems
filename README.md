@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0779-k-th-symbol-in-grammar](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2427-number-of-common-factors](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2427-number-of-common-factors) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0709-to-lower-case](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0415-add-strings) |
 | [1920-build-array-from-permutation](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1920-build-array-from-permutation) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3701-compute-alternating-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3701-compute-alternating-sum) |
