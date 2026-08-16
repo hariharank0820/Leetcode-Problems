@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0125-valid-palindrome) |
+| [0383-ransom-note](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0415-add-strings) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
+| [0383-ransom-note](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0383-ransom-note) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3467-transform-array-by-parity](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Two Pointers
