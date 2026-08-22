@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0434-number-of-segments-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0459-repeated-substring-pattern) |
+| [0520-detect-capital](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0709-to-lower-case](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0771-jewels-and-stones) |
