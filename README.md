@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1768-merge-strings-alternately](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/hariharank0820/Leetcode-Problems/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3136-valid-word](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3136-valid-word) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3838-weighted-word-mapping](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3838-weighted-word-mapping) |
 ## Simulation
