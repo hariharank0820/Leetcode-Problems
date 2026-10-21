@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0575-distribute-candies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0575-distribute-candies) |
 | [0643-maximum-average-subarray-i](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0724-find-pivot-index) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0389-find-the-difference) |
+| [0455-assign-cookies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/hariharank0820/Leetcode-Problems/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3467-transform-array-by-parity](https://github.com/hariharank0820/Leetcode-Problems/tree/master/3467-transform-array-by-parity) |
 ## Counting
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0125-valid-palindrome) |
 | [0234-palindrome-linked-list](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0541-reverse-string-ii](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0541-reverse-string-ii) |
 | [0844-backspace-string-compare](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0844-backspace-string-compare) |
 | [0917-reverse-only-letters](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0917-reverse-only-letters) |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0455-assign-cookies) |
 ## String Matching
 |  |
 | ------- |
@@ -231,4 +235,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
