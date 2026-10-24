@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0162-find-peak-element) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0392-is-subsequence) |
 | [0410-split-array-largest-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0055-jump-game) |
 | [0410-split-array-largest-sum](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0410-split-array-largest-sum) |
 | [0455-assign-cookies](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0860-lemonade-change) |
