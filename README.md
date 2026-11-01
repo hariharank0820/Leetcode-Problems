@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0057-insert-interval) |
 | [0152-maximum-product-subarray](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0162-find-peak-element) |
