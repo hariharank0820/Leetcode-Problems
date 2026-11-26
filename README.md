@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0263-ugly-number) |
 | [0371-sum-of-two-integers](https://github.com/hariharank0820/Leetcode-Problems/tree/master/0371-sum-of-two-integers) |
